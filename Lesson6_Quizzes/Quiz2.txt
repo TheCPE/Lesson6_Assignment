@@ -12,4 +12,12 @@ Questions:
 
 
 
+
 2.  List the six main objects that make up the browser object model. 
+
+1) window
+2) navigitor 
+3) screen
+4) history
+5) location
+6) framename
